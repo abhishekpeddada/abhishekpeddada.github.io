@@ -94,9 +94,9 @@ function dil(form)
                            <tr><td><a href="addbook.html"><b>add books</b></a></td></tr>
 						   <tr><td><a href="lend.html"><b>Lend books</b></a></td></tr>
 						   <tr><td><a href="returning.html"><b>Return books</b></a></td></tr>
-						   <tr><td><a href="http://98076e37d668.ngrok.io/lib/adminstaff.jsp"><b>Students</b></a></td></tr>
-							<tr><td><a href=" http://98076e37d668.ngrok.io/lib/studentregister.jsp"><b>addstudents</b></a></td></tr>
-							<tr><td><a href=" http://98076e37d668.ngrok.io/lib/books.jsp"><b>books available</b></a></td></tr>
+						   <tr><td><a href="http://localhost:8080/lib/adminstaff.jsp"><b>Students</b></a></td></tr>
+							<tr><td><a href=" http://localhost:8080/lib/studentregister.jsp"><b>addstudents</b></a></td></tr>
+							<tr><td><a href=" http://localhost:8080/lib/books.jsp"><b>books available</b></a></td></tr>
              	</table>
                                     </div>
                                 </div>
