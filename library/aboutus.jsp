@@ -13,10 +13,10 @@
         
          <ul>
            <li><a href="index.html">Home</a></li>
-                    <li><a href=" http://98076e37d668.ngrok.io/lib/admin.jsp">Adminstrator</a></li>
-                    <li><a href=" http://98076e37d668.ngrok.io/lib/studentlogin.jsp">Student</a></li>
-                     <li><a href=" http://98076e37d668.ngrok.io/lib/aboutus.jsp">About Us</a></li>
-                    <li><a href=" http://98076e37d668.ngrok.io/lib/contactus.jsp">Contact Us</a></li>
+                    <li><a href=" http://localhost:8080/lib/admin.jsp">Adminstrator</a></li>
+                    <li><a href=" http://localhost:8080/lib/studentlogin.jsp">Student</a></li>
+                     <li><a href=" http://localhost:8080/lib/aboutus.jsp">About Us</a></li>
+                    <li><a href=" http://localhost:8080/lib/contactus.jsp">Contact Us</a></li>
                 </ul>    	
      
     </div> <!-- end of templatemo_menu -->
